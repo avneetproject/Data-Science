@@ -1,4 +1,4 @@
-# Machine-learning
+# Data Science Basics
 
 This repository contains my practice exercises and notes on fundamental data science libraries in Python. It covers:
 
